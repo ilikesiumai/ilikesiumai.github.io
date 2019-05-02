@@ -1,5 +1,5 @@
 .yo{
-    background-image: url('thesecondbackground.png');
+    background-image: url("background.png");
 	max-width:100%;
 	background-size: cover;
 	margin:auto;
